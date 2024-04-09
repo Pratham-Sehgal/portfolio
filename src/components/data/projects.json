@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "title": "Foodies",
+    "imageSrc": "projects/foodies.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Apni Dukan",
+    "imageSrc": "projects/e-com.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://apni-dukan-seven.vercel.app/",
+    "source": "https://github.com/Pratham-Sehgal/E-commerce"
+  },
+  {
+    "key": 4,
+    "title": "React Portfolio",
+    "imageSrc": "projects/pp.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Netflix Clone ",
+    "imageSrc": "projects/netflix.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://pratham-sehgal.github.io/Netflix_Clone/",
+    "source": "https://github.com/Pratham-Sehgal/Netflix_Clone"
+  }
+]

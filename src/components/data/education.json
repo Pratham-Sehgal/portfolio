@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "role": "Bachelors of Engineering (CSE)",
+      "organisation": "Chandigarh University",
+      "startDate": "October, 2020",
+      "endDate": "Present"
+    },
+    {
+      "id": 2,
+      "role": "Senior Secondary Education / 12th Boards",
+      "organisation": "Sri Guru Nanank Public School",
+      "startDate": "April, 2018",
+      "endDate": "March, 2020"
+     
+    }
+  ]
+  
