@@ -20,8 +20,8 @@
     "title": "React Portfolio",
     "imageSrc": "projects/pp.png",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://portfolio-iota-lovat-69.vercel.app/",
+    "source": "https://github.com/Pratham-Sehgal/portfolio"
   },
   {
     "key": 3,
